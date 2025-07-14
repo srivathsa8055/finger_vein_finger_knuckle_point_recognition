@@ -1,10 +1,5 @@
 
 # 🔍 Finger Vein & Knuckle Biometric Authentication Project
-
-<img src="https://via.placeholder.com/800x300?text=Finger+Vein+%26+Knuckle+Authentication" alt="Project Banner"/>
-
----
-
 ## 📌 Overview
 
 This project focuses on biometric authentication using **finger vein** and **knuckle print** patterns. Both these modalities provide unique and secure identifiers for use in:
@@ -86,8 +81,10 @@ finger_vein_kuckle_project_n.ipynb
 - ROI (Region of Interest) extraction
 
 Example preprocessed images:
-<img src="https://via.placeholder.com/500x300?text=Preprocessed+Finger+Vein+Image" alt="Preprocessed Finger Vein Image"/>
-<img src="https://via.placeholder.com/500x300?text=Preprocessed+Knuckle+Print" alt="Preprocessed Knuckle Image"/>
+<img width="1065" height="576" alt="fingervein" src="https://github.com/user-attachments/assets/1186877b-f711-4d5d-b16f-cdaed663dd61" />
+
+<img width="1072" height="607" alt="finger_knuckle" src="https://github.com/user-attachments/assets/73cc9134-a9bb-478c-bb27-75ec9e8566b8" />
+
 
 ### 📈 Feature Extraction
 
@@ -105,13 +102,15 @@ Example preprocessed images:
 
 ## 📊 Sample Results
 
-<img src="https://via.placeholder.com/600x300?text=Feature+Extraction+Visualization" alt="Feature Extraction Result"/>
+<img width="606" height="472" alt="accuracy_graphResNet50" src="https://github.com/user-attachments/assets/8e1588c1-7906-46d3-a19b-b07f3da00042" />
 
-Outputs include:
-- Feature maps
-- Similarity scores between samples
+<img width="728" height="510" alt="accuracy_graphvgg16" src="https://github.com/user-attachments/assets/99575d51-bcd4-4c8c-90db-320f19aff6fd" />
+
+<img width="872" height="277" alt="Model_performance_comparision" src="https://github.com/user-attachments/assets/8a6c1918-9ea1-4104-8ec3-149f8ef63d05" />
+
+Output include:
 - Model classification metrics like Accuracy and Precision
-
+-Model Acurracy Graph
 ---
 
 ## 🚧 Future Enhancements
@@ -140,12 +139,6 @@ git commit -m "Add Your Message"
 git push origin feature/YourFeature
 ```
 5. Open a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
